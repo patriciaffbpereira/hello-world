@@ -7,3 +7,6 @@ Alterando NOVAMENTE ESSE BRANCH
 
 tESTANDO O GIT FETCH
 
+
+Git Stash: permite salvar temporariamente um conteúdo
+
